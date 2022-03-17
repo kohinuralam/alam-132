@@ -1,0 +1,556 @@
+/*==for-lg-screen==*/
+
+@media screen and (min-width: 991px) and (max-width: 1199px) {
+
+/*==supper-area-start==*/
+
+.super-content h2 {
+            font-size: 49px;
+            line-height: 60px;
+  }
+
+/*==supper-area-end==*/
+
+/*==point-area-start==*/
+
+.point-content h2 {
+            font-size: 39px;
+            line-height: 50px;
+    }
+
+/*==point-area-end==*/
+
+/*==daftar-harga-area-end==*/
+
+  .daftar-harga-area {
+          padding: 0 0 130px 0;
+  }
+
+  .harga-content-wrapper {
+          padding: 50px 16px;
+  }
+
+  .daftar-harga-title h2 {
+          font-size: 40px;
+          line-height: 68px;
+         
+
+  }
+
+  .daftar-harga-title p {
+          font-size: 21px;
+          line-height: 30px;
+  }
+
+  .daftar-harga-title p br {
+            display: none;
+  }
+
+  .daftar-harga-item {
+          padding: 39px 11px 29px 23px;
+          margin: 35px 0 0 0;
+  }
+
+  .daftar-harga-item h5 {
+          font-size: 20px;
+          line-height: 25px;
+  }
+
+  .daftar-harga-item h2 {
+          font-size: 20px;
+          line-height: 25px;
+  }
+
+  .daftar-harga-item h2 small {
+          padding-left: 4px;
+
+  }
+
+  .daftar-harga-item h2 {
+          font-size: 20px;
+          line-height: 25px;
+  }
+
+  .daftar-harga-item ul li {
+          font-size: 18px;
+          padding: 0 0 15px 0;
+  }
+
+  .daftar-harga-item ul li span img {
+          padding-right: 16px;
+  }
+
+  .daftar-harga-item a {
+          font-size: 20px;
+          padding: 18px 35px;
+          margin: 30px 0 0 0;
+  }
+
+  /*==daftar-harga-area-end==*/
+  
+  /*==daftar-fitur-area-start==*/
+ .daftar-fitur-item {
+          padding: 35px 10px 38px 20px;
+}
+
+.daftar-fitur-item ul li {
+          font-size: 19px;
+          line-height: 25px;
+          padding: 0 0 14px 0; 
+}
+
+
+/*==daftar-fitur-area-end==*/
+ 
+
+  
+
+
+
+}
+
+/*==========================for-lg-screen-end===============*/
+
+
+/*============for-tablet-screen-start=========================*/
+
+@media screen and (min-width: 767px) and (max-width: 991px) {
+
+/*==logo-area-start==*/
+
+    .logo-area {
+          padding: 15px 0 15px 0;
+    }
+
+
+    .mobil-bar i {
+            display: none;
+    }
+
+    .menu-bar ul li a { 
+            font-size: 16px;
+            padding: 28px 9px;
+    }
+
+    .login-button a {
+             font-size: 20px;
+             margin: 27px 0 0 0;
+
+    }
+
+    .dafter-button a {
+            font-size: 15px;
+            padding: 5px 15px;
+            border-radius: 20px;
+            margin: 23px 0 0 0;
+           
+    }
+
+  /*==logo-area-end==*/
+
+  /*==point-area-start==*/
+
+    .point-content h2 {
+              font-size: 36px;
+              padding: 55px 0 0 0;
+              line-height: 50px;
+    }
+
+    .point-content a {
+            padding: 10px 33px;
+            margin: 25px 0 0 0;
+
+}
+
+  /*==point-area-end==*/
+
+  /*==mengapa-area-start==*/
+
+  .mengapa-title h2 {
+            font-size: 39px;
+            line-height: 57px;
+            padding: 40px;
+  }
+
+  .mengapa-item p {
+            margin: 71px 0 0 0;
+            padding: 0 0 0 14px;
+  }
+
+  .mengapa-item img {
+            margin: 50px 0 0 0;
+  }
+
+  /*==mengapa-area-end==*/
+
+  /*==supper-area-start==*/
+
+  .super-area {
+           padding: 0 0 40px 0;
+  } 
+
+  .super-content h2 {
+            font-size: 36px;
+            line-height: 60px;
+  }
+
+
+  /*==supper-area-end==*/
+
+  /*==daftar-harga-area-end==*/
+
+    .daftar-harga-area {
+            padding: 0 0 50px 0;
+    }
+
+    .harga-content-wrapper {
+            padding: 35px 25px;
+    }
+
+    .daftar-harga-title h2 {
+            font-size: 40px;
+            line-height: 68px;
+           
+    }
+
+    .daftar-harga-title p {
+            font-size: 20px;
+            line-height: 30px;
+    }
+
+    .daftar-harga-title p br {
+              display: none;
+    }
+
+    .daftar-harga-item {
+            padding: 39px 11px 29px 23px;
+            margin: 35px 0 0 0;
+    }
+
+    .daftar-harga-item h5 {
+            font-size: 20px;
+            line-height: 25px;
+    }
+
+    .daftar-harga-item h2 {
+            font-size: 20px;
+            line-height: 25px;
+    }
+
+    .daftar-harga-item h2 small {
+            padding-left: 4px;
+
+    }
+
+    .daftar-harga-item h2 {
+            font-size: 20px;
+            line-height: 25px;
+    }
+
+    .daftar-harga-item ul li {
+            font-size: 18px;
+            padding: 0 0 15px 0;
+    }
+
+    .daftar-harga-item ul li span img {
+            padding-right: 16px;
+    }
+
+    .daftar-harga-item a {
+            font-size: 20px;
+            padding: 18px 35px;
+            margin: 30px 0 0 0;
+    }
+
+    #fitur-first {
+            min-height: 628px;
+    }
+
+    #fitur-second {
+            min-height: 628px;
+    }
+
+/*==daftar-harga-area-end==*/
+
+/*==second-page-start==*/
+  
+  .sign-in-pg p {
+          font-size: 30px;
+          padding: 30px 0 0 0;
+
+  }
+
+  .sign-in-pg img {
+          margin: 30px 0 0 0;
+  }
+
+/*==second-page-end==*/
+
+/*==third-page-start==*/
+
+.column-1 {
+        width: 100%;
+        padding: 0;      
+}
+
+.column-2 {
+        width: 100%;
+        padding: 0;
+}
+
+#button-2 {
+        margin: 18px 0 0 0;
+}
+
+.sign-up-pg p {
+        font-size: 23px;
+        line-height: 30px;
+        
+}
+
+/*==third-page-end=====*/
+
+
+
+    
+}
+
+/*==============for-tablet-screen-end=============================*/
+
+
+/*==============for-mobil-screen-start============================*/
+
+@media screen and (max-width: 767px) {
+
+/*==logo-area-start==*/
+
+    .logo-area {
+          padding: 20px 0 20px 0;
+    }
+
+
+    .menu-bar ul {
+            display: none;
+            
+    }
+
+    .mobil-bar i {
+            display: block;
+            margin: 10px 0 0 0;
+          
+           
+    }
+
+    .login-button a {
+            display: none;
+    }
+
+    .dafter-button a {
+            display: none;
+    }
+
+/*==logo-area-end==*/
+
+/*==point-area-start==*/
+
+  .point-area {
+            padding: 0 0 20px 0;
+  }
+
+
+  .point-content h2 {
+            font-size: 36px;
+            padding: 55px 0 0 0;
+            line-height: 50px;
+  }
+
+  .point-content a {
+            padding: 10px 33px;
+            margin: 25px 0 0 0;
+
+}
+
+
+/*==point-area-end======*/
+
+/*==mengapa-area-start==*/
+
+  .mengapa-area {
+          padding: 0 0 50px 0;
+  }
+
+  .mengapa-title h2 {
+          font-size: 39px;
+          line-height: 57px;
+          padding: 40px;
+  }
+
+/*==mengapa-area-end==*/
+
+/*==super-area-start==*/
+ 
+ .super-area {
+        padding: 0 0 40px 0;
+} 
+
+  .super-content h2 {
+          font-size: 36px;
+          padding: 27px 0 0 0;
+          line-height: 60px;
+  }
+
+  .super-content a {
+          padding: 15px 35px;  
+          margin: 20px 0 0 0;
+  }
+
+  .super-images img {
+          margin: 30px 0 0 0;
+  }
+
+/*==super-area-end==*/
+
+/*==daftar-harga-area-end==*/
+
+.daftar-harga-area {
+        padding: 0 0 50px 0;
+}
+
+.harga-content-wrapper {
+        padding: 35px 25px;
+}
+
+.daftar-harga-title h2 {
+        font-size: 40px;
+        line-height: 68px;       
+}
+
+.daftar-harga-title p {
+        font-size: 21px;
+        line-height: 30px;
+}
+
+.daftar-harga-title p br {
+          display: none;
+}
+
+.daftar-harga-item {
+        padding: 39px 11px 29px 23px;
+        margin: 35px 0 0 0;
+}
+
+.daftar-harga-item h5 {
+        font-size: 20px;
+        line-height: 25px;
+}
+
+.daftar-harga-item h2 {
+        font-size: 20px;
+        line-height: 25px;
+}
+
+.daftar-harga-item h2 small {
+        padding-left: 4px;
+
+}
+
+.daftar-harga-item h2 {
+        font-size: 20px;
+        line-height: 25px;
+}
+
+.daftar-harga-item ul li {
+        font-size: 18px;
+        padding: 0 0 15px 0;
+}
+
+.daftar-harga-item ul li span img {
+        padding-right: 16px;
+}
+
+.daftar-harga-item a {
+        font-size: 20px;
+        padding: 18px 35px;
+        margin: 30px 0 0 0;
+}
+
+/*==daftar-harga-area-end====*/
+
+/*==daftar-fitur-area-start==*/
+
+.daftar-fitur-area {
+        padding: 0 0 40px 0;
+}
+
+
+.daftar-fitur-title h2 {
+        font-size: 45px;
+        
+}
+
+#fitur-first {
+        min-height: 422px;
+}
+
+#fitur-second {
+        min-height: 545px;
+}
+
+ .daftar-fitur-button a {
+          padding: 13px 66px;
+         
+
+ }
+
+/*==daftar-fitur-area-end==*/
+
+/*==footer-area-start==*/
+
+.footer-item {
+          padding: 0 0 0 15px;
+}
+
+/*==footer-area-end==*/
+
+/*==seocnd-page-start==*/
+
+.sign-in-form {
+        margin: 38px auto 0;
+}
+
+.sign-in-pg p {
+        font-size: 30px;
+        padding: 30px 0 0 0;
+
+}
+
+/*==seocnd-page-end==*/
+
+/*==three-page-start==*/
+
+.column-1 {
+        width: 100%;
+        padding: 0;      
+}
+
+.column-2 {
+        width: 100%;
+        padding: 0;
+}
+
+#button-2 {
+        margin: 18px 0 0 0;
+}
+
+.sign-up-pg p {
+        font-size: 30px;
+        
+}
+
+/*==three-page-end==*/
+
+
+}
+
+/*==mobil-area-screen==*/
+         
